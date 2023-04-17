@@ -7,7 +7,7 @@ Steps to run this project:
 3. Run `npm start` command
 
 Steps to deployd this project:
-1. Run npx tsc
+1. Run: npx tsc
 2. cd build
 3. Run :  nodejs index.js
 # nodejs-typeorm-simple-crud-mysql
